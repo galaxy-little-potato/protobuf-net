@@ -7,7 +7,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <DefineConstants>EMIT_ASSEMBLY_INFO</DefineConstants>
     <!-- new build tools spit these out -->
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 
     <!-- this is how we will configure the builds relatively cleanly -->
     <ImportLibs>net</ImportLibs>
