@@ -1,6 +1,7 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras">
   <PropertyGroup>
-    <AssemblyName>protobuf-net</AssemblyName>
+    <PackageId>protobuf-net-scopely</PackageId>
+    <AssemblyName>protobuf-net-scopely</AssemblyName>
     <Title>protobuf-net</Title>
     <Description>Provides simple access to fast and efficient "Protocol Buffers" serialization from .NET applications</Description>
     <TargetFrameworks>netstandard2.1</TargetFrameworks>
